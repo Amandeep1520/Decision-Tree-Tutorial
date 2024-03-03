@@ -1,0 +1,1 @@
+In this tutorial, we explore the implementation of decision trees using Python, leveraging the popular Pokémon dataset. Decision trees are powerful supervised learning algorithms used for classification and regression tasks. With this tutorial, you'll gain insights into building decision trees and understanding how they make decisions based on input features.
